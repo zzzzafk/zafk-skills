@@ -1,0 +1,4 @@
+interface:
+  display_name: "DaVinci AutoEdit Agent"
+  short_description: "DaVinci agent for approval-gated automatic video editing"
+  default_prompt: "Use $davinci-autoedit-agent to turn my media into a reviewed script, blueprint, and DaVinci Resolve edit."

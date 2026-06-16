@@ -1,0 +1,4 @@
+interface:
+  display_name: "DaVinci Resolve Editor"
+  short_description: "Operate and verify DaVinci Resolve editing workflows safely"
+  default_prompt: "Use -resolve-editor to build and verify my approved edit in Resolve."
